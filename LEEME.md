@@ -1,4 +1,4 @@
-# Horu's Ocarina 1.2 · versión web instalable
+# Horu's Ocarina 1.4 · versión web instalable
 
 Esta carpeta es la app lista para publicar en internet y añadirla como app en el móvil.
 
