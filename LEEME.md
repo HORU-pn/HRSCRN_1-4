@@ -1,4 +1,4 @@
-# Horu's Ocarina 1.4 · versión web instalable
+# Horu's Ocarina 1.5 · versión web instalable
 
 Esta carpeta es la app lista para publicar en internet y añadirla como app en el móvil.
 
@@ -26,3 +26,14 @@ Sube siempre la carpeta completa: si solo subes `index.html`, no se podrá insta
 
 Abriendo el HTML desde Descargas o WhatsApp no se puede instalar: los móviles solo lo permiten
 con webs publicadas en `https://`.
+
+## Actualizar la web en GitHub
+1. Entra en tu repositorio en github.com.
+2. Pulsa **Add file → Upload files** y arrastra **todo el contenido** de esta carpeta
+   (`index.html`, `sw.js`, `manifest.webmanifest`, `NOVEDADES.md`, `LEEME.md` y la carpeta `icons`).
+3. Escribe un mensaje, por ejemplo «Versión 1.5», y pulsa **Commit changes**.
+4. En uno o dos minutos la web se actualiza. Si alguien no ve los cambios, que recargue la página
+   (o cierre y abra la app instalada).
+
+Quien ya usaba la app verá una vez la ventana **Novedades de la versión 1.5**. Se puede volver a
+abrir en cualquier momento pulsando **ver 1.5**, arriba a la izquierda.
